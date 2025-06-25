@@ -1,37 +1,26 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I’m focused on expanding my understanding of programming languages and building a strong foundation in data analysis. One of my current goals is to learn how to manipulate data and create clear, effective visualizations that communicate insights.
 
+To explore the R language, I wrote a simple program that builds a linear regression model using a built-in dataset. The program prints a summary of the model and generates a scatterplot to visualize the relationship between two variables.
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
+My main purpose for writing this software was to gain hands-on experience with R's syntax, especially for statistical modeling and plotting. I also wanted to begin exploring different types of graphs like pie charts, histograms, and box plots.
 
-
-{Describe your purpose for writing this software.}
-
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/K04lbo2mOYk)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the R language in Visual Studio Code with the R extension. I also set up a GitHub repository to store and version-control my work. I installed the R runtime to allow my IDE to run scripts and view plots directly.
 
-
-{Describe the programming language that you used and any libraries.}
-
+For this project, I used the R language and its datasets library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [W3Schools]()
-- [R]()
+- [W3Schools](https://www.w3schools.com/r/default.asp)
+- [R-project](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add examples of other plot types (histograms, pie charts, box plots)
+- Create multiple regression models with more than one predictor
+- Use external datasets instead of just built-in ones
